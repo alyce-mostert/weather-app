@@ -78,6 +78,15 @@ li {
   margin: 15px auto;
 }
 
+.source {
+  text-align: center;
+  margin-top: -30px;
+}
+
+.source-code-link {
+  color: #f3a02d;
+}
+
 #cityName {
   font-size: 30px;
   padding-top: -10px;
